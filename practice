@@ -1,0 +1,15 @@
+{
+  	"id":1,
+	"email":"retailer@gmail.com",
+	"password":"password",
+	"name":"Abhijeet",
+	"mobile":7045969707,
+	"enabled":1,
+	"role":"RETAILER",
+	"pin":1234
+}
+
+{
+    "username":"retailer@gmail.com",
+    "password":"password"
+}
